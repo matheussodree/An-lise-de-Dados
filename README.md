@@ -17,4 +17,6 @@
 * Para colocá-la em prática, é necessário coletar dados das mais diversas fontes para cruzamento de informações que vão enriquecer a análise e trazer _insights_ preditivos e inteligentes
 #### Análise Prescritiva
 * A análise prescritiva pode ser confudida com a preditiva, mas, apesar das semelhanças, seu objetivo é diferente
-* Ela não foca em prever o futuro, mas, sim, em determinar as consequências das decisões tomadas
+* Ela não foca em prever o futuro, mas, sim, em determinar as consequências das decisões tomadas;
+* Sua ideia central, portanto, é identificar as melhores estratégias de com acordo com os padrões existentes;
+* Por meio de decisões mais assertivas, ela contribui para a melhoria do desempenho empresarial
