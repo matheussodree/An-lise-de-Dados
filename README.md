@@ -21,3 +21,5 @@
 * Sua ideia central, portanto, é identificar as melhores estratégias de com acordo com os padrões existentes;
 * Por meio de decisões mais assertivas, ela contribui para a melhoria do desempenho empresarial
 #### Análise Descritiva
+* A análise descritiva faz uma "mineração dos dados" em tempo real, visando encontrar respostas rápidas e seguras para as diversas questões existentes no dia a dia de uma empresa;
+* Perceba que o estudo é feito para embasar decisões no presente, e não no futuro; 
