@@ -20,3 +20,4 @@
 * Ela não foca em prever o futuro, mas, sim, em determinar as consequências das decisões tomadas;
 * Sua ideia central, portanto, é identificar as melhores estratégias de com acordo com os padrões existentes;
 * Por meio de decisões mais assertivas, ela contribui para a melhoria do desempenho empresarial
+#### Análise Descritiva
