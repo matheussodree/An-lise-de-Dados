@@ -24,4 +24,5 @@
 * A análise descritiva faz uma "mineração dos dados" em tempo real, visando encontrar respostas rápidas e seguras para as diversas questões existentes no dia a dia de uma empresa;
 * Perceba que o estudo é feito para embasar decisões no presente, e não no futuro;
 #### Análise Diagnóstica
-* A análise diagnóstica tem como objetivo fazer uma verificação mais ampla e geral sobre determinada situação
+* A análise diagnóstica tem como objetivo fazer uma verificação mais ampla e geral sobre determinada situação;
+* Assim, enquanto a descritiva cuida da análise de crédito, a diagnóstica foca em traçar um perfil de comportamento do consumidor e melhorar suas ações de marketing e vendas, por exemplo.
