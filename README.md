@@ -26,3 +26,7 @@
 #### Análise Diagnóstica
 * A análise diagnóstica tem como objetivo fazer uma verificação mais ampla e geral sobre determinada situação;
 * Assim, enquanto a descritiva cuida da análise de crédito, a diagnóstica foca em traçar um perfil de comportamento do consumidor e melhorar suas ações de marketing e vendas, por exemplo.
+
+### Como funciona a análise de dados?
+
+* Entender o que é análise de dados e utilizá-la, são processos de extrema importância para as empresas;
