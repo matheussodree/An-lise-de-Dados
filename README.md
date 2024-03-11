@@ -35,3 +35,6 @@
 ### Etapas da análise de dados
 
 #### Análise exploratória
+* Manuseio de possíveis dados imcompletos;
+* Verificação dos pontos fora da curva;
+* Inserção de dados no sistema.
