@@ -31,3 +31,7 @@
 
 * Entender o que é análise de dados e utilizá-la, são processos de extrema importância para as empresas;
 * Essa prática é a responsável pelo aproveitamento de todo o potencial das informações que uma empresa tem, transformando-as em chances reais de crescimento;
+
+### Etapas da análise de dados
+
+#### Análise exploratória
