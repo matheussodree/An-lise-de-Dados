@@ -40,3 +40,4 @@
 * Inserção de dados no sistema.
 #### Modelagem de dados
 * Criação de regras para os diferentes tipos de análises a se realizar;
+* Avaliação da possibilidade de contratar recursos de automação para facilitar a coleta e a interpretação das informações.
