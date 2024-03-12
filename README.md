@@ -38,3 +38,5 @@
 * Manuseio de possíveis dados imcompletos;
 * Verificação dos pontos fora da curva;
 * Inserção de dados no sistema.
+#### Modelagem de dados
+* Criação de regras para os diferentes tipos de análises a se realizar;
