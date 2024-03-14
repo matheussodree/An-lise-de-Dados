@@ -41,3 +41,7 @@
 #### Modelagem de dados
 * Criação de regras para os diferentes tipos de análises a se realizar;
 * Avaliação da possibilidade de contratar recursos de automação para facilitar a coleta e a interpretação das informações.
+#### Construção de relatórios
+* Construção de relatórios claros e precisos para embasar as decisões futuras, agilizando a tomada de decisão estratégica
+
+### Quais 
