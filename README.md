@@ -48,3 +48,9 @@
 * É papel da gestão tomar decisões e conduzir a equipe no caminho correto. Todavia, essas tarefas são complexas e exigem muita estratégia e planejamento
 * Nesse contexto, a análise de dados entra em cena para definir quais direções seguir de acordo com o que é mais vantajoso para a empresa
 #### Vejam alguns pontos que provam a sua relevância
+* Visibilidade sobre o mercado;
+* Compreensão das necessidades dos clientes;
+* Formação de um diferencial de mercado;
+* Tomada de decisão: mais precisão e menos riscos;
+* Redução de custos;
+* Melhor aproveitamento do capital humano;
