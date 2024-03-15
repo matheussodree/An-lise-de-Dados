@@ -47,3 +47,4 @@
 ### Quais os benefícios da análise e interpretação de dados?
 * É papel da gestão tomar decisões e conduzir a equipe no caminho correto. Todavia, essas tarefas são complexas e exigem muita estratégia e planejamento
 * Nesse contexto, a análise de dados entra em cena para definir quais direções seguir de acordo com o que é mais vantajoso para a empresa
+#### Vejam alguns pontos que provam a sua relevância
