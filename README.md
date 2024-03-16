@@ -41,6 +41,13 @@
 * Questionar e entender sempre
 * Confirmar as teorias
 
+#### Definição do objetivo
+* Quais perguntas quero responder?
+* Quais problemas quero resolver?
+  - Por que o lucro está caindo?
+  - A receita está diminuindo?
+  - Os custos estão aumentando?
+
 ### Etapas da análise de dados
 
 #### Análise exploratória
