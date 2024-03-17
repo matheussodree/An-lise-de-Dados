@@ -47,6 +47,7 @@
   - Por que o lucro está caindo?
   - A receita está diminuindo?
   - Os custos estão aumentando?
+#### Quais dados irão me ajudar a resolver o problema?
 
 ### Etapas da análise de dados
 
