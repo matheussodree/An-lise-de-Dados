@@ -48,7 +48,12 @@
   - A receita está diminuindo?
   - Os custos estão aumentando?
 #### Quais dados irão me ajudar a resolver o problema?
-
+* Aqui, você deve pensar nos "80-20", ou seja, quais são os fatores mais relevantes que influenciam os dados/indicadores
+  - Exemplo:
+    - receita mensal
+    - receita por produto
+    - custo mensal
+    - abertura dos custos
 ### Etapas da análise de dados
 
 #### Análise exploratória
