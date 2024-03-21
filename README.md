@@ -41,30 +41,30 @@
 * Questionar e entender sempre
 * Confirmar as teorias
 
-#### Definição do objetivo
+#### 1 - Definição do objetivo
 * Quais perguntas quero responder?
 * Quais problemas quero resolver?
   - Por que o lucro está caindo?
   - A receita está diminuindo?
   - Os custos estão aumentando?
-#### Quais dados irão me ajudar a resolver o problema?
+#### 2 - Quais dados irão me ajudar a resolver o problema?
 * Aqui, você deve pensar nos "80-20", ou seja, quais são os fatores mais relevantes que influenciam os dados/indicadores
   - Exemplo:
     - receita mensal
     - receita por produto
     - custo mensal
     - abertura dos custos
-#### Como esses 80% afetam os indicadores? (e o que podemos fazer com eles)
+#### 3 - Como esses 80% afetam os indicadores? (e o que podemos fazer com eles)
 
-#### Visualização dos dados para análise e comparação
+#### 4 - Visualização dos dados para análise e comparação
 
-#### Questionar e entender sempre 
+#### 5 - Questionar e entender sempre 
 * Levantar as suas hipóteses
 * Trazer dados para comprovar essas hipóteses
 * Correlação x Causalidade 
   - Obs: correlação __não necessariamente__ implica em causalidade
  
-#### Fazer uma análise isolada dos cenários/hipóteses levantadas (confirmar as teorias)
+#### 6 - Fazer uma análise isolada dos cenários/hipóteses levantadas (confirmar as teorias)
 
 ### Etapas da análise de dados
 
