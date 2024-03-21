@@ -63,6 +63,9 @@
 * Trazer dados para comprovar essas hipóteses
 * Correlação x Causalidade 
   - Obs: correlação __não necessariamente__ implica em causalidade
+ 
+#### Fazer uma análise isolada dos cenários/hipóteses levantadas (confirmar as teorias)
+
 ### Etapas da análise de dados
 
 #### Análise exploratória
