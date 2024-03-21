@@ -54,6 +54,15 @@
     - receita por produto
     - custo mensal
     - abertura dos custos
+#### Como esses 80% afetam os indicadores? (e o que podemos fazer com eles)
+
+#### Visualização dos dados para análise e comparação
+
+#### Questionar e entender sempre 
+* Levantar as suas hipóteses
+* Trazer dados para comprovar essas hipóteses
+* Correlação x Causalidade 
+  - Obs: correlação __não necessariamente__ implica em causalidade
 ### Etapas da análise de dados
 
 #### Análise exploratória
